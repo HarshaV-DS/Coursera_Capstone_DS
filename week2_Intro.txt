@@ -1,0 +1,8 @@
+#Introduction
+
+Road Accidents are most undesirable and unexpected event occur to people while travelling by road. Also there are many accidents occurring in another mode of transportation.
+There will be many factors that lead to accident, leaving people to injured or left with hurting none or even in the worst case scenario death. Each year, 1.35 million people are killed on roadways around the world.
+Every day, almost 3,700 people are killed globally in road traffic crashes involving cars, buses, motorcycles, bicycles, trucks, or pedestrians. More than half of those killed are pedestrians, motorcyclists, and cyclists.
+In the event of occurring an accident has a massive impact on society as well as in the economy of our country as there is an immense cost of fatalities and injuries. Taking measures to avoid accident are the major concern over
+years, in developing roadways, indications, and safety measures. With leverage of technology, we can take history of accident and their reports, to analyze the happenings. On premise of this, we have opportunity to explore the
+previous data of accident and predict the severity of an accident. This can be made possible through Data Science of using various models to predict the severity. 
